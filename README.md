@@ -23,7 +23,7 @@ Series_Title, Released_Year, Runtime, Genre, IMDB_Rating, Director, Star1, No_of
 
 3. 🛠️ Requirements
 
-To run this project, you'll need the following Python libraries:
+To run this , you'll need the following Python libraries:
 
 numpy
 pandas
