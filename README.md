@@ -30,6 +30,6 @@ pandas
 
 4. 🚀 How to Use :
 
-Clone the repository:
+Clone the repository :
 
 git clone https://github.com/Ranjeet-Kumar60/groupby.git
